@@ -1,15 +1,16 @@
-# 👋 Hi, I'm Shawn Tan
+# 👋 Hi, I'm Shawn
 
 > Aspiring Full-Stack Dev || Tech Enthusiast || Lifelong Learner || Cats || FPS Games || Music || Anime
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/LIshawn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shawn-portfolio-live.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shawnhadritan@gmail.com)
-
-![Shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=shondoe11&show_icons=true&theme=tokyonight) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shondoe11&layout=compact&theme=tokyonight)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shondoe11&theme=tokyonight)](https://git.io/streak-stats)
-
+<a href="https://bit.ly/LIshawn" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://shawn-portfolio-live.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:shawnhadritan@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 ## 💻 Stack
 
@@ -26,27 +27,34 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 🚀 Featured
+## 🚀 Projects
 
-### [Music Re-Wrapped](https://github.com/shondoe11/music-rewrapped)
-Transform Spotify listening data into actionable insights with event discovery features.
-- **Tech**: Python, Flask, React, PostgreSQL, D3.js, TailwindCSS
+<a href="https://github.com/shondoe11/music-rewrapped" target="_blank">
+  <img src="https://img.shields.io/badge/Music%20Re-Wrapped-Spotify-blue?style=for-the-badge" alt="Music Re-Wrapped" />
+</a>
 
-### [MASKoff](https://www.maskup.space/home)
-Full-stack MERN platform for job searching with secure real-time messaging.
-- **Tech**: MongoDB, Express, React, Node.js, WebSocket, AES Encryption
+<a href="https://www.maskup.space/home" target="_blank">
+  <img src="https://img.shields.io/badge/MASKoff-MERN-green?style=for-the-badge" alt="MASKoff" />
+</a>
 
-### [Anything-Dash](https://github.com/shondoe11/anything-dash)
-Modular dashboard with multiple API integrations for weather, crypto, sports, and more.
-- **Tech**: React, Vite, Airtable, External APIs
+<a href="https://github.com/shondoe11/anything-dash" target="_blank">
+  <img src="https://img.shields.io/badge/Anything%20Dash-Dashboard-orange?style=for-the-badge" alt="Anything Dash" />
+</a>
 
-### [Blackjack Game](https://github.com/shondoe11/blackjack-game)
-Interactive card game with persistent leaderboard and responsive design.
-- **Tech**: JavaScript, HTML, CSS, localStorage
+<a href="https://github.com/shondoe11/blackjack-game" target="_blank">
+  <img src="https://img.shields.io/badge/Blackjack%20Game-JavaScript-yellow?style=for-the-badge" alt="Blackjack Game" />
+</a>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=shondoe11&show_icons=true&theme=tokyonight" alt="Shawn's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shondoe11&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shondoe11&theme=tokyonight)](https://git.io/streak-stats)
 
 ## 🎵 Currently Listening To
 
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1177097482&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1177097482&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
+[![https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1177097482&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1177097482&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
 
 ## 🌐 Connect With Me
 
