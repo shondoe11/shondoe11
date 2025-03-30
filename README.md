@@ -1,12 +1,17 @@
 # 👋 Hi, I'm Shawn Tan
 
-> Aspiring Full-Stack Dev
+> Aspiring Full-Stack Dev || Tech Enthusiast || Lifelong Learner || Cats || FPS Games || Music || Anime
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/LIshawn)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shawn-portfolio-live.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shawnhadritan@gmail.com)
 
-## 💻 Tech Stack
+![Shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=shondoe11&show_icons=true&theme=tokyonight) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shondoe11&layout=compact&theme=tokyonight)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shondoe11&theme=tokyonight)](https://git.io/streak-stats)
+
+
+## 💻 Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -21,7 +26,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 🚀 Featured Projects
+## 🚀 Featured
 
 ### [Music Re-Wrapped](https://github.com/shondoe11/music-rewrapped)
 Transform Spotify listening data into actionable insights with event discovery features.
@@ -39,19 +44,9 @@ Modular dashboard with multiple API integrations for weather, crypto, sports, an
 Interactive card game with persistent leaderboard and responsive design.
 - **Tech**: JavaScript, HTML, CSS, localStorage
 
-## 📊 GitHub Stats
-
-![Shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=shondoe11&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shondoe11&layout=compact&theme=tokyonight)
-
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shondoe11&theme=tokyonight)](https://git.io/streak-stats)
-
 ## 🎵 Currently Listening To
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=shondoe11&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1177097482&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1177097482&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
 
 ## 🌐 Connect With Me
 
