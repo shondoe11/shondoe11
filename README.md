@@ -1,16 +1,15 @@
-# 👋 Hi, I'm Shawn
+![Header](./assets/shondoe11-header-img.png)
 
-> Aspiring Full-Stack Dev || Tech Enthusiast || Lifelong Learner || Cats || FPS Games || Music || Anime
+<p align="center">
+ <img src="https://badges.pufler.dev/visits/shondoe11/shondoe11"/> 
+ <!-- <img src="https://badges.pufler.dev/years/shondoe"/> -->
+ <img src="https://badges.pufler.dev/repos/shondoe11"/>
+ <img src="https://badges.pufler.dev/commits/monthly/shondoe11" />
+</p>
 
-<a href="https://bit.ly/LIshawn" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://shawn-portfolio-live.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-</a>
-<a href="mailto:shawnhadritan@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/LIshawn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shawn-portfolio-live.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shawnhadritan@gmail.com)
 
 ## 💻 Stack
 
@@ -29,39 +28,24 @@
 
 ## 🚀 Projects
 
-<a href="https://github.com/shondoe11/music-rewrapped" target="_blank">
-  <img src="https://img.shields.io/badge/Music%20Re-Wrapped-Spotify-blue?style=for-the-badge" alt="Music Re-Wrapped" />
-</a>
+[![Music Re-Wrapped](https://img.shields.io/badge/Music_ReWrapped-Full_Stack-darkgreen?style=for-the-badge)](https://github.com/shondoe11/music-rewrapped)
+[![MaskOFF](https://img.shields.io/badge/MASKoff-Full_Stack-darkblue?style=for-the-badge)](https://www.maskup.space/home)
+[![Anything-Dash](https://img.shields.io/badge/Anything%20Dash-Front_End-orange?style=for-the-badge)](https://github.com/shondoe11/anything-dash)
+[![Blackjack-Game](https://img.shields.io/badge/BlackJack-Front_End-purple?style=for-the-badge)](https://github.com/shondoe11/blackjack-game)
 
-<a href="https://www.maskup.space/home" target="_blank">
-  <img src="https://img.shields.io/badge/MASKoff-MERN-green?style=for-the-badge" alt="MASKoff" />
-</a>
-
-<a href="https://github.com/shondoe11/anything-dash" target="_blank">
-  <img src="https://img.shields.io/badge/Anything%20Dash-Dashboard-orange?style=for-the-badge" alt="Anything Dash" />
-</a>
-
-<a href="https://github.com/shondoe11/blackjack-game" target="_blank">
-  <img src="https://img.shields.io/badge/Blackjack%20Game-JavaScript-yellow?style=for-the-badge" alt="Blackjack Game" />
-</a>
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-end; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=shondoe11&show_icons=true&theme=tokyonight" alt="Shawn's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shondoe11&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shondoe11&layout=compact&theme=tokyonight" height="195" alt="Top Languages" />
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shondoe11&theme=tokyonight)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shondoe11&theme=tokyonight" width="825" alt="GitHub Streak" />
 
 ## 🎵 Currently Listening To
 
-[![https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1177097482&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1177097482&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1177097482&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=1177097482&redirect=true)
 
 ## 🌐 Connect With Me
 
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shondoe11&color=blueviolet" alt="Profile views">
-</p>
