@@ -1,4 +1,6 @@
-![Header](./assets/shondoe11-header-img.png)
+<p align="center">
+  <img src="./assets/shondoe11-header-img.png" alt="Header"/>
+</p>
 
 <p align="center">
  <img src="https://badges.pufler.dev/visits/shondoe11/shondoe11"/> 
@@ -7,9 +9,17 @@
  <img src="https://badges.pufler.dev/commits/monthly/shondoe11" />
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/LIshawn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shawn-portfolio-live.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shawnhadritan@gmail.com)
+<p align="center">
+  <a href="https://bit.ly/LIshawn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://shawn-portfolio-live.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:shawnhadritan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ## 💻 Stack
 
@@ -28,10 +38,10 @@
 
 ## 🚀 Projects
 
-[![Music Re-Wrapped](https://img.shields.io/badge/Music_ReWrapped-Full_Stack-darkgreen?style=for-the-badge)](https://github.com/shondoe11/music-rewrapped)
-[![MaskOFF](https://img.shields.io/badge/MASKoff-Full_Stack-darkblue?style=for-the-badge)](https://www.maskup.space/home)
-[![Anything-Dash](https://img.shields.io/badge/Anything%20Dash-Front_End-orange?style=for-the-badge)](https://github.com/shondoe11/anything-dash)
-[![Blackjack-Game](https://img.shields.io/badge/BlackJack-Front_End-purple?style=for-the-badge)](https://github.com/shondoe11/blackjack-game)
+[![Music Re-Wrapped](https://img.shields.io/badge/Music_ReWrapped-Full_Stack-darkgreen?style=for-the-badge)](https://bit.ly/shondoe11-music-rewrapped)
+[![MaskOFF](https://img.shields.io/badge/MASKoff-Full_Stack-darkblue?style=for-the-badge)](https://bit.ly/P3-maskOFF)
+[![Anything-Dash](https://img.shields.io/badge/Anything%20Dash-Front_End-orange?style=for-the-badge)](https://bit.ly/anything-dash)
+[![Blackjack-Game](https://img.shields.io/badge/BlackJack-Front_End-purple?style=for-the-badge)](https://bit.ly/shawn-blackjack)
 
 <div style="display: flex; justify-content: space-end; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=shondoe11&show_icons=true&theme=tokyonight" alt="Shawn's GitHub stats" />
