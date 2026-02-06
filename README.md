@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/shondoe11-header-img.png" alt="Header"/>
+
 </p>
 
 <p align="center">
